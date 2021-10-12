@@ -21,7 +21,7 @@
 }
 
 .weather-box {
-  background-color: azure;
+  background-color: lightyellow;
   border-radius: 10px;
   border: 2px solid darkblue;
   display: flex;
