@@ -63,6 +63,7 @@ function App() {
     <div className="App">
       <h1 className="weather__title">Find weather of any city</h1>
       <input
+        aria-label="city-input"
         placeholder="Enter city name..."
         className="weather__input"
         type="text"
